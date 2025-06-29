@@ -83,4 +83,4 @@ Doc Query/
 
 ## License
 
-MIT License # DOC-QUERY
+Nagesh Gupta # DOC-QUERY
